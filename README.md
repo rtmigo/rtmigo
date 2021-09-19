@@ -1,1 +1,1 @@
-[Revercode](https://revercode.com/) ◆ [Python packages on PyPi](https://pypi.org/user/rtmigo/) ◆[Google Play](https://play.google.com/store/apps/developer?id=Werhal+%7C+Quiz+%26+Trivia+Games) ◆ [Random guy on LinkedIn](https://www.linkedin.com/in/artg/)
+[Revercode](https://revercode.com/) ◆ [Python packages on PyPi](https://pypi.org/user/rtmigo/) ◆ [Google Play](https://play.google.com/store/apps/developer?id=Werhal+%7C+Quiz+%26+Trivia+Games) ◆ [Random guy on LinkedIn](https://www.linkedin.com/in/artg/)
