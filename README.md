@@ -2,3 +2,5 @@ Links: [PyPi](https://pypi.org/user/rtmigo/) ◆ [PubDev](https://pub.dev/publis
 
 Repos: [Python](https://github.com/rtmigo?tab=repositories&q=&type=source&language=python) ◆ [Dart](https://github.com/rtmigo?tab=repositories&q=&type=source&language=dart) ◆ [Kotlin](https://github.com/rtmigo?tab=repositories&q=&type=source&language=kotlin)
 
+I entertain myself by making computers do the work.
+
