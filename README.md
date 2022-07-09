@@ -1,4 +1,4 @@
-Having fun making computers do the work
+Having fun delegating work to computers
 
 Repos: [Kotlin](https://github.com/rtmigo?tab=repositories&q=&type=source&language=kotlin&sort=stargazers) | [Dart & Flutter](https://github.com/rtmigo?tab=repositories&q=&type=source&language=dart&sort=stargazers) | [Python](https://github.com/rtmigo?tab=repositories&q=&type=source&language=python&sort=stargazers) |  
 
